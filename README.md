@@ -6,3 +6,6 @@
 4. через toptal.com сгенерировал файл .gitignore для VS Code и Python 
 5. через git add . добавил все файлы в коммит
 6. создал инициализирующий коммит git commit -m "добавил .gitignore и README.md файлы"
+7. запушил коммит git push -u origin main
+8. добавил файл hello_gigaschool.py в проект
+9. 
